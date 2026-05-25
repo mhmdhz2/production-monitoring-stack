@@ -64,9 +64,9 @@ Grafana Dashboards
 
 ---
 
-### Node Exporter Dashboard
+### Live System Monitoring Dashboard
 
-![Node Exporter](screenshots/grafana-node-exporter-dashboard.png)
+![Live Monitoring](screenshots/grafana-node-exporter-dashboard.png)
 
 ---
 
